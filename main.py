@@ -1,4 +1,4 @@
-# lets make doodle jump!
+
 import random
 
 import pygame
